@@ -1,0 +1,9 @@
+*string adalah wadah yang menampung sebuah text
+*integer adalah sebuah wadah yang menampung sebuah angka
+
+
+string nama;
+int nama2;
+float umurteman;
+char namabapak;
+long umurbapak;

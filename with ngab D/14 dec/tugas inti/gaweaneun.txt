@@ -1,0 +1,3 @@
+-buat 2 file baru :
+file 1 = input 10 data angka lalu dari ke-10 angka yang sudah diinputkan jumlahkan keseluruhannya ( array multidimensi & array kosongan )
+file 2 = input 3 data siswa berupa nama, nis, rayon, dan nilai dpk ( array 1D dan array kosongan )
